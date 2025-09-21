@@ -1,3 +1,4 @@
+View my work for thisproject at https://lekhana262.github.io/SmartReno/  :)
 # SmartReno Marketplace — Customer ↔ Contractor Bidding Platform
  
 **Scope:** MVP for customer-to-contractor bidding with SmartReno (Estimator/Admin) in between.
